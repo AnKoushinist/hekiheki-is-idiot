@@ -1,0 +1,16 @@
+{
+  "name": "hekiheki-is-idiot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "AnKoushinist",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.11.0",
+    "random-number": "0.0.9"
+  }
+}
